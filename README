@@ -1,4 +1,4 @@
-place this under vendor/plugins/inlcude_tag
+place this tag under vendor/plugins/inlcude_tag
 
 require 'standard_tags'
 
